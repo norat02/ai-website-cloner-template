@@ -1,6 +1,6 @@
 # AI Website Cloner Template
 
-<a href="https://github.com/norat02/ai-website-cloner-template"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT License" /></a> <a href="https://github.com/norat02/ai-website-cloner-template/stargazers"><img src="https://img.shields.io/github/stars/norat02/ai-website-cloner-template?style=flat" alt="Stars" /></a> <a href="https://discord.gg/hrTSX5yTpB"><img src="https://img.shields.io/discord/1400896964597383279?label=discord" alt="Discord" /></a>
+<a href="https://github.com/norat02/ai-website-cloner-template"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT License" /></a> <a href="https://github.com/norat02/ai-website-cloner-template/stargazers"><img src="https://img.shields.io/github/stars/norat02/ai-website-cloner-template?style=flat" alt="Stars" /></a>
 
 A reusable template for reverse-engineering any website into a clean, modern Next.js codebase using AI coding agents. 
 
