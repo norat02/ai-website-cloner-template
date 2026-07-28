@@ -1,0 +1,17 @@
+{
+  "name": "ai-website-cloner",
+  "version": "1.0.0",
+  "description": "Reverse-engineer and clone websites section-by-section into a pixel-perfect Next.js + shadcn/ui + Tailwind build, dispatching parallel builder agents as it extracts each section.",
+  "author": {
+    "name": "norat02",
+    "url": "https://github.com/norat02"
+  },
+  "homepage": "https://github.com/norat02/ai-website-cloner-template",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/norat02/ai-website-cloner-template.git"
+  },
+  "skills": [
+    "./.claude/skills/clone-website"
+  ]
+}
