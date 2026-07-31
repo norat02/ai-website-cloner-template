@@ -1,4 +1,4 @@
-# AI Website Cloner Template
+i9# AI Website Cloner Template
 
 <a href="https://github.com/norat02/ai-website-cloner-template"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT License" /></a> <a href="https://github.com/norat02/ai-website-cloner-template/stargazers"><img src="https://img.shields.io/github/stars/norat02/ai-website-cloner-template?style=flat" alt="Stars" /></a>
 
@@ -168,10 +168,6 @@ Two source-of-truth files power all platform support. Edit the source, then run 
 
 Each script regenerates the platform-specific copies automatically. Agents that read the source files natively need no regeneration.
 
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=JCodesMore/ai-website-cloner-template&type=Date)](https://star-history.com/#JCodesMore/ai-website-cloner-template&Date)
 
 ## License
 
